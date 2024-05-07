@@ -136,7 +136,8 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 ```
 
 #### OUTPUT:
-![Uploading download.png…]()
+![download](https://github.com/Manojrathinavelu/project/assets/119560395/37533e79-703d-4dcf-989c-c69c01f9e6c0)
+
 
 ## Result:
 Thus, a python program using OpenCV for following image manipulations is done successfully
